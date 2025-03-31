@@ -61,7 +61,7 @@ Create a `.env` file:
 ```env
 PORT=3000
 MONGO_URI=mongodb://localhost:27017
-SLACK_WEBHOOK=https://hooks.slack.com/services/your/webhook/url
+SLACK_WEBHOOK=https://hooks.slack.com/services/webhook/url
 ```
 
 ### 4. Run the Server
